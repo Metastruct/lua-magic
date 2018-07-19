@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 #
 AC_PREREQ(2.61)
-AC_INIT(magic, 5.25)
+AC_INIT(magic, 5.33)
 AM_INIT_AUTOMAKE([foreign no-dist no-installinfo no-installman -Wall])
 AC_CONFIG_HEADER([src/config.h])
 AC_CONFIG_MACRO_DIR([m4])
